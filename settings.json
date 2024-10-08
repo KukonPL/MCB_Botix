@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "/spawn",
-        "/spawn",
-        "/spawn"
+        "/home z",
+        "/bal",
+        "/bal"
       ]
     },
 
